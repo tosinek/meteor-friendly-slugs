@@ -7,7 +7,7 @@ Package.describe({
 })
 
 Package.onUse(function (api) {
-  api.use(['underscore', 'check', 'meteor:meteor-collection-hooks'])
+  api.use(['underscore', 'check', 'matb33:collection-hooks'])
   api.versionsFrom('1.0')
   api.mainModule('slugs.js')
 })
