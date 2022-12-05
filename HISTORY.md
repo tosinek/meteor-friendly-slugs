@@ -3,7 +3,8 @@ HISTORY.md
 ### v0.7.0
 
 - decaffeinated
-- update collection-hooks version
+- update collection-hooks to the community version
+- updated transliteration for Czech characters
 
 ### v0.6.0
 
